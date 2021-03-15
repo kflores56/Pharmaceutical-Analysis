@@ -56,7 +56,7 @@ Data from several files were combined and then cleaned to remove duplicates.
 ## Final Insights
 
 When looking across all of the aggregated data, calculations, and comparisons the following is noted: 
-- When looking across all drug regimens Capomulin and Ramicane had the smallest tumor sizes when central tendencies were calculated
-- These two drug regimens also had the most overall measurements and the lowest standard deviations which means all data points were closely clustered around the mean
-- It is also interesting to note, that while the data for these two drug regimens were closely clustered they also contained outliers
-- Overall, we can note, the larger the size of the tumor the higher the weight of the mouse
+- When looking across all drug regimens Capomulin and Ramicane had the smallest tumor sizes when central tendencies were calculated.
+- These two drug regimens also had the most overall measurements and the lowest standard deviations which means all data points were closely clustered around the mean.
+- It is also interesting to note, that while the data for these two drug regimens were closely clustered they also contained outliers.
+- Overall, we can note, the larger the size of the tumor the higher the weight of the mouse.
