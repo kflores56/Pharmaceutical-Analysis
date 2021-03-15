@@ -10,7 +10,7 @@ Data from several files were combined and then cleaned to remove duplicates.
 
 -  Summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen were conducted first with groupby and then with the aggregate method. 
 
-<img src="https://github.com/kflores56/matplotlib-challenge/blob/main/Pymaceuticals/Images/1.png" width="500"/>
+<img src="https://github.com/kflores56/matplotlib-challenge/blob/main/Pymaceuticals/Images/1.png"/>
 
 ## Bar and Pie Charts
 
