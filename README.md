@@ -50,6 +50,7 @@ Data from several files were combined and then cleaned to remove duplicates.
 
 - The scatter plot and linear regression model were then visualized on the same graph. 
 
+
 <img src="https://github.com/kflores56/matplotlib-challenge/blob/main/Pymaceuticals/Images/9.png"/>
 
 ## Final Insights
