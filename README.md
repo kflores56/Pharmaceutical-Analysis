@@ -10,7 +10,7 @@ Data from several files were combined and then cleaned to remove duplicates.
 
 -  Summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen were conducted first with groupby and then with the aggregate method. 
 
-<img src="https://github.com/kflores56/matplotlib-challenge/blob/main/Pymaceuticals/Images/1.png" width="400"/>
+<img src="https://github.com/kflores56/matplotlib-challenge/blob/main/Pymaceuticals/Images/1.png" width="500"/>
 
 ## Bar and Pie Charts
 
@@ -20,7 +20,7 @@ Data from several files were combined and then cleaned to remove duplicates.
 
 - Two pie charts were created to show the distribution of female or male mice in the study using Pandas's DataFrame.plot() for the first map and Matplotlib's pyplot for the second.
 
-<img src="https://github.com/kflores56/matplotlib-challenge/blob/main/Pymaceuticals/Images/4.png" width="400"/>
+<img src="https://github.com/kflores56/matplotlib-challenge/blob/main/Pymaceuticals/Images/4.png" width="200"/>
 
 ## Final Tumor Volume Analysis
 
@@ -50,7 +50,7 @@ Data from several files were combined and then cleaned to remove duplicates.
 
 - The scatter plot and linear regression model were then visualized on the same graph. 
 
-<img src="https://github.com/kflores56/matplotlib-challenge/blob/main/Pymaceuticals/Images/9.png" width="400"/>
+<img src="https://github.com/kflores56/matplotlib-challenge/blob/main/Pymaceuticals/Images/9.png"/>
 
 ## Final Insights
 
