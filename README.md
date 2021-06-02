@@ -60,3 +60,7 @@ When looking across all of the aggregated data, calculations, and comparisons th
 - These two drug regimens also had the most overall measurements and the lowest standard deviations which means all data points were closely clustered around the mean.
 - It is also interesting to note, that while the data for these two drug regimens were closely clustered they also contained outliers.
 - Overall, we can note, the larger the size of the tumor the higher the weight of the mouse.
+
+
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:kristin.flores56@gmail.com)
